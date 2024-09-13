@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5d7275a9-1fe2-4934-a031-46f32370137a)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
